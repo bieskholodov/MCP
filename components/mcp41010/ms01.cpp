@@ -1,4 +1,4 @@
-#include "ms01.h"
+#include "esphome/components/ms01/ms01.h"
 #include "esphome/core/log.h"
 #include <Arduino.h>
 
